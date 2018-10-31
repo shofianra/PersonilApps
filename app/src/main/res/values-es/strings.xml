@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personil Apps</string>
+
+    <string name="user_profil">Profile</string>
+    <string name="bahasa">Language</string>
+
+    <string name="detail_profil_personil">Personil Profile Detail</string>
+    <string name="detail_profil_mahasiswa">Student Profile</string>
+</resources>
